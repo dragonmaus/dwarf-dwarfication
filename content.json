@@ -1,0 +1,15 @@
+{
+  "Format": "1.19.0",
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Characters/Dwarf",
+      "FromFile": "assets/Characters/Dwarf.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/Dwarf",
+      "FromFile": "assets/Portraits/Dwarf.png"
+    }
+  ]
+}
